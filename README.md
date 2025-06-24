@@ -31,6 +31,8 @@ created a pairplot of chosen features using scatter plots and histograms:
 
 Pclass, Age, Fare, and Survived Utilized
 
+6. task 2 zip file contain output images
+
 
 
 🛠 Tools Used:
